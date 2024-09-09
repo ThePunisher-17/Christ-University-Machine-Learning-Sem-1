@@ -51,7 +51,7 @@ Setup
 To run the projects in this repository, follow these steps:
 
 # Clone the repository:
-git clone https://github.com/ThePunisher-17/Christ-University-Machine-Learning-Sem-1/Lab [Lab no]
+git clone https://github.com/ThePunisher-17/Christ-University-Machine-Learning-Sem-1/
 cd ML_labs
 Create a virtual environment (optional but recommended)::
 python3 -m venv venv
