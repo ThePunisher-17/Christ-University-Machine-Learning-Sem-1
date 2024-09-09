@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Machine Learning Lab Projects
+# Machine Learning Lab Projects
 Welcome to the Machine Learning Lab Projects repository! This repository contains a collection of data analysis and machine learning projects that I have worked on. Each project demonstrates the application of various techniques, from exploratory data analysis (EDA) to implementing machine learning algorithms and comparing their performance.
 
 Table of Contents
