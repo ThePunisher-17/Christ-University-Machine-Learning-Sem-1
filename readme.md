@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Machine Learning Lab Projects
 Welcome to the Machine Learning Lab Projects repository! This repository contains a collection of data analysis and machine learning projects that I have worked on. Each project demonstrates the application of various techniques, from exploratory data analysis (EDA) to implementing machine learning algorithms and comparing their performance.
 
@@ -69,3 +70,8 @@ Email: pratikd170403@gmail.com
 LinkedIn: https://www.linkedin.com/in/pratik-deshmukh-357460250/
 GitHub: https://github.com/ThePunisher-17/<span style="color: red;">This repository contains all the lab assignments</span>
 <span style="color: green;"> which I've completed in Christ university triminister 1: Machine Learning</span>
+=======
+<div style="color: red;"> <span> This repository contains all the lab assignments</span>
+<span style="color: green;"> which I've completed in Christ University triminister 1: Machine Learning</span>
+</div>
+>>>>>>> a329cb6bb76e58917e569fd72a69f5a50b968eb9
