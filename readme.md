@@ -67,9 +67,3 @@ If you have any questions or would like to discuss any of the projects, feel fre
 
 Email: pratikd170403@gmail.com
 LinkedIn: https://www.linkedin.com/in/pratik-deshmukh-357460250/
-GitHub: https://github.com/ThePunisher-17/<span style="color: red;">This repository contains all the lab assignments</span>
-<span style="color: green;"> which I've completed in Christ university triminister 1: Machine Learning</span>
-=======
-<div style="color: red;"> <span> This repository contains all the lab assignments</span>
-<span style="color: green;"> which I've completed in Christ University triminister 1: Machine Learning</span>
-</div>
