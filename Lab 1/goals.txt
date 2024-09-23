@@ -1,0 +1,37 @@
+I Check✔️
+Data Cleaning and Handling Noisy Data.
+missing values, and use appropriate methods, such as mean imputation, to handle them 
+any noisy data or outliers 
+
+II
+Data Integration and Finding Relationships between Variables.
+Conduct exploratory data analysis (EDA) to identify potential relationships between variables and customer churn
+
+III
+Data Scaling,  Data  Dimensionality Reduction,  and  Feature  Selection
+Principal  Component  Analysis
+Feature selection methods to identify the most relevant features for churn prediction
+
+IV
+converting  relevant 
+continuous variables to discrete using binning. For example, you can group customers' ages into age 
+categories. Moreover, create a heatmap for visualization, which will help us understand the correlation 
+between variables and identify any potential multicollinearity.
+
+V Check✔️
+The churn dataset we have might suffer from class imbalance, where the number of customers who 
+churned (Exited = 1) is significantly lower than those who did not churn (Exited = 0). This imbalance 
+could lead to biased model performance and affect the churn prediction accuracy. 
+To address this, I want you all to explore and implement techniques to handle imbalanced data. This 
+might involve methods like: 
+Resampling Techniques: Use techniques such as oversampling the minority class (churned customers) 
+or undersampling the majority class (non-churned customers) to balance the class distribution. 
+Synthetic Data Generation: Consider generating synthetic samples for the minority class using 
+techniques like Synthetic Minority Over-sampling Technique (SMOTE) or Adaptive Synthetic 
+(ADASYN) to increase the representation of churned customers. 
+
+VI
+Remember to provide clear explanations and interpretations of the results in your 
+final reports. Visualizations, graphs, and tables will be essential to support your analysis and make it 
+easier for stakeholders to understand. Take your time, and let's meet again in a week to discuss your 
+findings and insights. Good luck to a
